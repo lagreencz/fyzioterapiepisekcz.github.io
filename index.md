@@ -1,3 +1,22 @@
+Fyzioterapie Písek
+
+Nestátní zdravotnické zařízení se zaměřením na fyzioterapii (léčebnou rehabilitaci) a podiatrii (vyšetření a léčbu nohou) dospělých, dětí i kojenců.
+
+Objednávky přijímáme telefonicky na čísle 382212248.
+
+Adresa: Alšovo náměstí 75/13, Písek (budova městské knihovny, pravý vchod)
+
+Přijmeme fyzioterapeuta/tku s VŠ vzděláním v oboru, odborné kurzy výhodou, lze i absolvent.
+
+Příjemné pracovní prostředí, dobré platové podmínky, 5 týdnů dovolené, stravenkový paušál, důchodové pojištění, podpora vzdělávání.
+
+Plný nebo částečný pracovní úvazek.
+
+Kontakt: vkropackova@volny.cz
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lagreencz/fyzioterapiepisekcz.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
